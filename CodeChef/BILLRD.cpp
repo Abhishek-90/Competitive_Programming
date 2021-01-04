@@ -38,10 +38,10 @@ int main() {
 	    	x[3]=y2;
 
 
-		    if(k%4==0)
-		    	cout<<x[4]<<" "<<y[4]<<endl;
-		   	else
-		   		cout<<x[k%4]<<" "<<y[k%4]<<endl;
+		   if(k%4==0)
+		   	cout<<x[4]<<" "<<y[4]<<endl;
+		   else
+		   	cout<<x[k%4]<<" "<<y[k%4]<<endl;
 		}
 	}
 	
